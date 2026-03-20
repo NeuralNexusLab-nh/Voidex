@@ -1,2 +1,2 @@
 <?php
-echo 'voidex';
+echo 'Voidex';
